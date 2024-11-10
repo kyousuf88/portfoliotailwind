@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react'
 import { MdMenuBook } from "react-icons/md";
 const Navbar = () => {
   return (

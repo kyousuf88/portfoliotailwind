@@ -5,7 +5,7 @@ import Hero from "@/components/Hero";
 import Skills from "@/components/Skills";
 import AOS from "aos"
 import "aos/dist/aos.css";
-import { useEffect } from "react";
+import { useEffect } from 'react';
 
 export default function Home() {
   useEffect(() =>{
