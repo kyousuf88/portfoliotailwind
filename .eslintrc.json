@@ -1,5 +1,9 @@
 {
-  "rules": {
-    "react/no-unescaped-entities": "off" // This turns off the rule
+  "env": {
+    "es6": true
+  },
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module"
   }
 }
